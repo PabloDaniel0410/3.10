@@ -3,7 +3,23 @@ body{
 }
 h1.titulo{
     color: brown;
-    position: relative;
-    left: 550px;
+   
 
+}
+h3.Carta {
+
+    height: 150px;
+    left: 50px;
+    position: relative;
+    top: 150px;
+    width: 150px;
+  }
+  
+  img.Carta1 {
+  
+    height: 150px;
+  right: -130px;
+  position: relative;
+  top: -150px;
+  width: 150px;
 }
